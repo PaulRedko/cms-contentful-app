@@ -4,22 +4,22 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 export default function Meta() {
   return (
     <Head>
-      <link
+          <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/favicon/apple-touch-icon.png"
+        href="https://cdn.snapgene.com/assets/7.6.20/favicon/apple-icon-57x57.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="/favicon/favicon-32x32.png"
+        href="https://cdn.snapgene.com/assets/7.6.20/favicon/apple-icon-57x57.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="/favicon/favicon-16x16.png"
+        href="https://cdn.snapgene.com/assets/7.6.20/favicon/apple-icon-57x57.png"
       />
       <link rel="manifest" href="/favicon/site.webmanifest" />
       <link
